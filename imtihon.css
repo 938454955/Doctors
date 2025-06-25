@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.peader{
+    background-color: black;
+display: flex;
+gap: 2px;
+justify-content: space-between;
+align-items: center;
+}
+
+
+.peader div{
+   
+.a :hover
+    color: #DE2E54;
+}
+.button{
+    color: red;
+    background-color: white;
+    border:5px red
+    border-radius: 5px;
+}
+.a1{
+ 
+}
+
+.section-one{
+    background-image: url(./img/image\ 4.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+h1{
+width: 500px;
+height: 82.29444122314453px;
+top: 235.8px;
+left: 170px;
+color: white;
+}
+.butt{
+    background-color: #DE2E54;
+    width: 189px;
+height: 47px;
+top: 367px;
+left: 170px;
+border-radius: 8px;
+padding-top: 12px;
+padding-right: 24px;
+padding-bottom: 12px;
+padding-left: 24px;
+
+}
+.divv{
+    width: 300px;
+    height: 150px;
+}
+.ass{
+    display: flex;
+}
+.Xizmatlar{
+    text-align: center;
+}
+.ba{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.s2{
+    
+    width: 1685px;
+    height: 558px;
+    background-color: #0EB4C1;
+}
+h2{
+    font-family: Inter;
+font-weight: 600px;
+font-size: 64px;
+line-height: 100%;
+letter-spacing: 0px;
+text-align: center;
+
+}
+.das{
+ width: 540px;
+height: 331px;
+border-radius: 10px;
+background-color: w;
+
+}
+.label{
+    
+    width: 540px;
+    height: 331px;
+background-color: white;
+ border-radius: 10px;
+padding: 30px;
+
+}
+
+  .imtihon{
+    width: 460px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 15px;
+  }
+.map{
+    width: 540px;
+    height: 331px;
+    border-radius: 10px;
+   
+}
+.hammasi{
+    display: flex;
+    justify-content: center;
+    gap: 108px;
+    
+}
+.tr{
+    background-color: #38CC8B;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center     ;
+    background-color: black;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.yg{
+    display: flex;
+    margin-right: 200px;
+    gap: 50px;
+}
+.ansor{
+    display: flex;
+    margin-left: 100px;
+}
